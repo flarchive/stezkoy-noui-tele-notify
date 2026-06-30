@@ -1,0 +1,16 @@
+stezkoy-noui-tele-notify:
+  forum:
+    new_discussion: |
+      🆕 <b>Nowy temat:</b> «{title}»
+      <b>Tagi:</b> {tags}
+      <b>Autor:</b> {author}
+      <b>Data:</b> {date}
+      {excerpt}
+      ➡️ <a href="{url}">Przejdź do tematu</a>
+
+    new_post: |
+      💬 <b>Nowa odpowiedź w temacie:</b> «{title}»
+      <b>Autor:</b> {author}
+      <b>Data:</b> {date}
+      {excerpt}
+      ➡️ <a href="{url}">Przejdź do odpowiedzi</a>
