@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of stezkoy/noui-tele-notify.** Not for installation: use [Packagist](https://packagist.org/packages/stezkoy/noui-tele-notify) or the [upstream repository](https://github.com/Stezkoy/noui-tele-notify).
 
-**0** versions archived · Latest: [`1.0.9`](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.9) · License: `MIT` · Flarum: `^2.0`
+**10** versions archived · Latest: [`1.0.9`](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.9) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-06-29 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-06-30 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-06-30 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.2) |
+| `1.0.3` | 2026-08-19 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.3) |
+| `1.0.4` | 2026-08-19 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.4) |
+| `1.0.5` | 2026-08-19 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.5) |
+| `1.0.6` | 2026-08-19 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.6) |
+| `1.0.7` | 2026-08-19 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.7) |
+| `1.0.8` | 2026-08-19 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.8) |
+| `1.0.9` | 2026-08-21 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-noui-tele-notify/tree/archive/v1.0.9) |
 
 Catalog entry: [packages/stezkoy-noui-tele-notify.json](https://github.com/flarchive/archive-index/blob/main/packages/stezkoy-noui-tele-notify.json)
 
